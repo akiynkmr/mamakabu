@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD60BAE3180BC4D8000512D9 /* oa24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD60BADE180BC4D8000512D9 /* oa24.jpg */; };
+		CD60BAE4180BC4D8000512D9 /* oa43.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD60BADF180BC4D8000512D9 /* oa43.jpg */; };
+		CD60BAE5180BC4D8000512D9 /* oe23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD60BAE0180BC4D8000512D9 /* oe23.jpg */; };
+		CD60BAE6180BC4D8000512D9 /* oe31.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD60BAE1180BC4D8000512D9 /* oe31.jpg */; };
+		CD60BAE7180BC4D8000512D9 /* ou01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD60BAE2180BC4D8000512D9 /* ou01.jpg */; };
 		CFD07E1618043933002A8024 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFD07E1518043933002A8024 /* UIKit.framework */; };
 		CFD07E1818043933002A8024 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFD07E1718043933002A8024 /* Foundation.framework */; };
 		CFD07E1A18043933002A8024 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CFD07E1918043933002A8024 /* CoreGraphics.framework */; };
@@ -22,6 +27,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD60BADE180BC4D8000512D9 /* oa24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oa24.jpg; sourceTree = "<group>"; };
+		CD60BADF180BC4D8000512D9 /* oa43.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oa43.jpg; sourceTree = "<group>"; };
+		CD60BAE0180BC4D8000512D9 /* oe23.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oe23.jpg; sourceTree = "<group>"; };
+		CD60BAE1180BC4D8000512D9 /* oe31.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oe31.jpg; sourceTree = "<group>"; };
+		CD60BAE2180BC4D8000512D9 /* ou01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ou01.jpg; sourceTree = "<group>"; };
 		CFD07E1218043933002A8024 /* mamakabu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mamakabu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFD07E1518043933002A8024 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		CFD07E1718043933002A8024 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -55,6 +65,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CD60BAE8180BC4E7000512D9 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				CD60BADE180BC4D8000512D9 /* oa24.jpg */,
+				CD60BADF180BC4D8000512D9 /* oa43.jpg */,
+				CD60BAE0180BC4D8000512D9 /* oe23.jpg */,
+				CD60BAE1180BC4D8000512D9 /* oe31.jpg */,
+				CD60BAE2180BC4D8000512D9 /* ou01.jpg */,
+			);
+			name = icons;
+			sourceTree = "<group>";
+		};
 		CFD07E0918043933002A8024 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +107,7 @@
 		CFD07E1B18043933002A8024 /* mamakabu */ = {
 			isa = PBXGroup;
 			children = (
+				CD60BAE8180BC4E7000512D9 /* icons */,
 				CFD07E2418043933002A8024 /* litechAppDelegate.h */,
 				CFD07E2518043933002A8024 /* litechAppDelegate.m */,
 				CFD07E2D18043933002A8024 /* MainStoryboard_iPhone.storyboard */,
@@ -140,7 +163,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = haruakinosuke;
 			};
-			buildConfigurationList = CFD07E0D18043933002A8024 /* Build configuration list for PBXProject "mamakabu" */;
+			buildConfigurationList = CFD07E0D18043933002A8024 /* Build configuration list for PBXProject "Mamakabu" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -162,11 +185,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD60BAE7180BC4D8000512D9 /* ou01.jpg in Resources */,
 				CFD07E2018043933002A8024 /* InfoPlist.strings in Resources */,
+				CD60BAE6180BC4D8000512D9 /* oe31.jpg in Resources */,
 				CFD07E2818043933002A8024 /* Default.png in Resources */,
 				CFD07E2A18043933002A8024 /* Default@2x.png in Resources */,
 				CFD07E2C18043933002A8024 /* Default-568h@2x.png in Resources */,
+				CD60BAE5180BC4D8000512D9 /* oe23.jpg in Resources */,
 				CFD07E2F18043933002A8024 /* MainStoryboard_iPhone.storyboard in Resources */,
+				CD60BAE3180BC4D8000512D9 /* oa24.jpg in Resources */,
+				CD60BAE4180BC4D8000512D9 /* oa43.jpg in Resources */,
 				CFD07E3218043933002A8024 /* MainStoryboard_iPad.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -297,7 +325,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CFD07E0D18043933002A8024 /* Build configuration list for PBXProject "mamakabu" */ = {
+		CFD07E0D18043933002A8024 /* Build configuration list for PBXProject "Mamakabu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CFD07E3618043933002A8024 /* Debug */,
@@ -313,6 +341,7 @@
 				CFD07E3A18043933002A8024 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
