@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD5B0A7E180D9836001A8B78 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A6D180D9836001A8B78 /* back.png */; };
+		CD5B0A7F180D9836001A8B78 /* back2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A6E180D9836001A8B78 /* back2.png */; };
+		CD5B0A80180D9836001A8B78 /* Bar_1.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A6F180D9836001A8B78 /* Bar_1.png */; };
+		CD5B0A81180D9836001A8B78 /* Bar_2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A70180D9836001A8B78 /* Bar_2.png */; };
+		CD5B0A82180D9836001A8B78 /* Bar_3.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A71180D9836001A8B78 /* Bar_3.png */; };
+		CD5B0A83180D9836001A8B78 /* Button_A.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A72180D9836001A8B78 /* Button_A.png */; };
+		CD5B0A84180D9836001A8B78 /* Button_B1.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A73180D9836001A8B78 /* Button_B1.png */; };
+		CD5B0A85180D9836001A8B78 /* Button_B2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A74180D9836001A8B78 /* Button_B2.png */; };
+		CD5B0A86180D9836001A8B78 /* Button_B3.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A75180D9836001A8B78 /* Button_B3.png */; };
+		CD5B0A87180D9836001A8B78 /* Button_C1.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A76180D9836001A8B78 /* Button_C1.png */; };
+		CD5B0A88180D9836001A8B78 /* Framework1.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A77180D9836001A8B78 /* Framework1.png */; };
+		CD5B0A89180D9836001A8B78 /* Framework2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A78180D9836001A8B78 /* Framework2.png */; };
+		CD5B0A8A180D9836001A8B78 /* fukidashi1.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A79180D9836001A8B78 /* fukidashi1.png */; };
+		CD5B0A8B180D9836001A8B78 /* fukidashi2.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A7A180D9836001A8B78 /* fukidashi2.png */; };
+		CD5B0A8C180D9836001A8B78 /* fukidashi3.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A7B180D9836001A8B78 /* fukidashi3.png */; };
+		CD5B0A8D180D9836001A8B78 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A7C180D9836001A8B78 /* Icon.png */; };
+		CD5B0A8E180D9836001A8B78 /* Top.png in Resources */ = {isa = PBXBuildFile; fileRef = CD5B0A7D180D9836001A8B78 /* Top.png */; };
 		CD60BAE3180BC4D8000512D9 /* oa24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD60BADE180BC4D8000512D9 /* oa24.jpg */; };
 		CD60BAE4180BC4D8000512D9 /* oa43.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD60BADF180BC4D8000512D9 /* oa43.jpg */; };
 		CD60BAE5180BC4D8000512D9 /* oe23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD60BAE0180BC4D8000512D9 /* oe23.jpg */; };
@@ -27,12 +44,29 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CD5B0A6D180D9836001A8B78 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		CD5B0A6E180D9836001A8B78 /* back2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back2.png; sourceTree = "<group>"; };
+		CD5B0A6F180D9836001A8B78 /* Bar_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bar_1.png; sourceTree = "<group>"; };
+		CD5B0A70180D9836001A8B78 /* Bar_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bar_2.png; sourceTree = "<group>"; };
+		CD5B0A71180D9836001A8B78 /* Bar_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bar_3.png; sourceTree = "<group>"; };
+		CD5B0A72180D9836001A8B78 /* Button_A.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button_A.png; sourceTree = "<group>"; };
+		CD5B0A73180D9836001A8B78 /* Button_B1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button_B1.png; sourceTree = "<group>"; };
+		CD5B0A74180D9836001A8B78 /* Button_B2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button_B2.png; sourceTree = "<group>"; };
+		CD5B0A75180D9836001A8B78 /* Button_B3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button_B3.png; sourceTree = "<group>"; };
+		CD5B0A76180D9836001A8B78 /* Button_C1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button_C1.png; sourceTree = "<group>"; };
+		CD5B0A77180D9836001A8B78 /* Framework1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Framework1.png; sourceTree = "<group>"; };
+		CD5B0A78180D9836001A8B78 /* Framework2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Framework2.png; sourceTree = "<group>"; };
+		CD5B0A79180D9836001A8B78 /* fukidashi1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fukidashi1.png; sourceTree = "<group>"; };
+		CD5B0A7A180D9836001A8B78 /* fukidashi2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fukidashi2.png; sourceTree = "<group>"; };
+		CD5B0A7B180D9836001A8B78 /* fukidashi3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fukidashi3.png; sourceTree = "<group>"; };
+		CD5B0A7C180D9836001A8B78 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = 1015mamakabu/Icon.png; sourceTree = "<group>"; };
+		CD5B0A7D180D9836001A8B78 /* Top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Top.png; sourceTree = "<group>"; };
 		CD60BADE180BC4D8000512D9 /* oa24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oa24.jpg; sourceTree = "<group>"; };
 		CD60BADF180BC4D8000512D9 /* oa43.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oa43.jpg; sourceTree = "<group>"; };
 		CD60BAE0180BC4D8000512D9 /* oe23.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oe23.jpg; sourceTree = "<group>"; };
 		CD60BAE1180BC4D8000512D9 /* oe31.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oe31.jpg; sourceTree = "<group>"; };
 		CD60BAE2180BC4D8000512D9 /* ou01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ou01.jpg; sourceTree = "<group>"; };
-		CFD07E1218043933002A8024 /* mamakabu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mamakabu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CFD07E1218043933002A8024 /* mamakabu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = mamakabu.app; path = "/Users/takeoka/workspace/mamakabu/build/Debug-iphoneos/mamakabu.app"; sourceTree = "<absolute>"; };
 		CFD07E1518043933002A8024 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		CFD07E1718043933002A8024 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CFD07E1918043933002A8024 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -65,6 +99,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CD0B12DE180D9B95005EB630 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				CD5B0A7C180D9836001A8B78 /* Icon.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		CD5B0A6C180D9836001A8B78 /* 1015mamakabu */ = {
+			isa = PBXGroup;
+			children = (
+				CD5B0A6D180D9836001A8B78 /* back.png */,
+				CD5B0A6E180D9836001A8B78 /* back2.png */,
+				CD5B0A6F180D9836001A8B78 /* Bar_1.png */,
+				CD5B0A70180D9836001A8B78 /* Bar_2.png */,
+				CD5B0A71180D9836001A8B78 /* Bar_3.png */,
+				CD5B0A72180D9836001A8B78 /* Button_A.png */,
+				CD5B0A73180D9836001A8B78 /* Button_B1.png */,
+				CD5B0A74180D9836001A8B78 /* Button_B2.png */,
+				CD5B0A75180D9836001A8B78 /* Button_B3.png */,
+				CD5B0A76180D9836001A8B78 /* Button_C1.png */,
+				CD5B0A77180D9836001A8B78 /* Framework1.png */,
+				CD5B0A78180D9836001A8B78 /* Framework2.png */,
+				CD5B0A79180D9836001A8B78 /* fukidashi1.png */,
+				CD5B0A7A180D9836001A8B78 /* fukidashi2.png */,
+				CD5B0A7B180D9836001A8B78 /* fukidashi3.png */,
+				CD5B0A7D180D9836001A8B78 /* Top.png */,
+			);
+			path = 1015mamakabu;
+			sourceTree = "<group>";
+		};
 		CD60BAE8180BC4E7000512D9 /* icons */ = {
 			isa = PBXGroup;
 			children = (
@@ -82,16 +147,7 @@
 			children = (
 				CFD07E1B18043933002A8024 /* mamakabu */,
 				CFD07E1418043933002A8024 /* Frameworks */,
-				CFD07E1318043933002A8024 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		CFD07E1318043933002A8024 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				CFD07E1218043933002A8024 /* mamakabu.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 		CFD07E1418043933002A8024 /* Frameworks */ = {
@@ -107,6 +163,8 @@
 		CFD07E1B18043933002A8024 /* mamakabu */ = {
 			isa = PBXGroup;
 			children = (
+				CD0B12DE180D9B95005EB630 /* Images */,
+				CD5B0A6C180D9836001A8B78 /* 1015mamakabu */,
 				CD60BAE8180BC4E7000512D9 /* icons */,
 				CFD07E2418043933002A8024 /* litechAppDelegate.h */,
 				CFD07E2518043933002A8024 /* litechAppDelegate.m */,
@@ -163,7 +221,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = haruakinosuke;
 			};
-			buildConfigurationList = CFD07E0D18043933002A8024 /* Build configuration list for PBXProject "Mamakabu" */;
+			buildConfigurationList = CFD07E0D18043933002A8024 /* Build configuration list for PBXProject "mamakabu" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -171,7 +229,7 @@
 				en,
 			);
 			mainGroup = CFD07E0918043933002A8024;
-			productRefGroup = CFD07E1318043933002A8024 /* Products */;
+			productRefGroup = CFD07E0918043933002A8024;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -185,17 +243,34 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD5B0A8D180D9836001A8B78 /* Icon.png in Resources */,
 				CD60BAE7180BC4D8000512D9 /* ou01.jpg in Resources */,
+				CD5B0A81180D9836001A8B78 /* Bar_2.png in Resources */,
 				CFD07E2018043933002A8024 /* InfoPlist.strings in Resources */,
+				CD5B0A82180D9836001A8B78 /* Bar_3.png in Resources */,
+				CD5B0A86180D9836001A8B78 /* Button_B3.png in Resources */,
+				CD5B0A89180D9836001A8B78 /* Framework2.png in Resources */,
 				CD60BAE6180BC4D8000512D9 /* oe31.jpg in Resources */,
+				CD5B0A87180D9836001A8B78 /* Button_C1.png in Resources */,
 				CFD07E2818043933002A8024 /* Default.png in Resources */,
+				CD5B0A84180D9836001A8B78 /* Button_B1.png in Resources */,
+				CD5B0A8A180D9836001A8B78 /* fukidashi1.png in Resources */,
 				CFD07E2A18043933002A8024 /* Default@2x.png in Resources */,
+				CD5B0A8E180D9836001A8B78 /* Top.png in Resources */,
+				CD5B0A8B180D9836001A8B78 /* fukidashi2.png in Resources */,
 				CFD07E2C18043933002A8024 /* Default-568h@2x.png in Resources */,
+				CD5B0A7F180D9836001A8B78 /* back2.png in Resources */,
+				CD5B0A80180D9836001A8B78 /* Bar_1.png in Resources */,
 				CD60BAE5180BC4D8000512D9 /* oe23.jpg in Resources */,
 				CFD07E2F18043933002A8024 /* MainStoryboard_iPhone.storyboard in Resources */,
+				CD5B0A7E180D9836001A8B78 /* back.png in Resources */,
 				CD60BAE3180BC4D8000512D9 /* oa24.jpg in Resources */,
+				CD5B0A85180D9836001A8B78 /* Button_B2.png in Resources */,
 				CD60BAE4180BC4D8000512D9 /* oa43.jpg in Resources */,
+				CD5B0A8C180D9836001A8B78 /* fukidashi3.png in Resources */,
 				CFD07E3218043933002A8024 /* MainStoryboard_iPad.storyboard in Resources */,
+				CD5B0A88180D9836001A8B78 /* Framework1.png in Resources */,
+				CD5B0A83180D9836001A8B78 /* Button_A.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,7 +400,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CFD07E0D18043933002A8024 /* Build configuration list for PBXProject "Mamakabu" */ = {
+		CFD07E0D18043933002A8024 /* Build configuration list for PBXProject "mamakabu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CFD07E3618043933002A8024 /* Debug */,
